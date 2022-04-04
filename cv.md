@@ -83,3 +83,11 @@ Plotter cutting
 <br>
 
 
+## EDUCATION
+
+- [RS School](https://rs.school/)
+- Self-study
+<br>
+
+
+
