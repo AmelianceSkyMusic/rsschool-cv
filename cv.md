@@ -49,3 +49,16 @@ Plotter cutting
 <br>
 
 
+## SOFT SKILLS
+
+- Adaptability
+- Critical thinking
+- Focus on results
+- Friendly
+- Honesty
+- Perfectionism
+- Self-development
+- Stress tolerance
+<br>
+
+
