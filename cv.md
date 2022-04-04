@@ -62,3 +62,24 @@ Plotter cutting
 <br>
 
 
+## HARD SKILLS
+
+### Basic
+- JavaScript
+- HTML
+- CSS
+- Git/GitHub
+- Visual Studio Code
+
+### Other
+- Figma, Photoshop, Illustrator
+- Lua, AHK
+- Yaml, Ini, Json, Xml, Walter
+- Notion, Jira, Slack
+- Studio One, Reaper
+
+### English
+- A0-A1
+<br>
+
+
