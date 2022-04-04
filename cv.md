@@ -91,3 +91,7 @@ Plotter cutting
 
 
 
+## HOBBIES
+
+I am musician. I play musical instruments and compose music.
+In my free time I like to write code to automate routine tasks, ride a bike, take pictures.
